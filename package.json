@@ -1,0 +1,29 @@
+{
+  "name": "mailparse",
+  "version": "1.0.0",
+  "description": "tool",
+  "main": "mails.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "extw": "^1.2.1",
+    "fs": "0.0.1-security",
+    "inbox": "^1.1.59",
+    "keyword-extractor": "0.0.13",
+    "node-regexp": "^0.1.1",
+    "nodehun-sentences": "^1.0.4",
+    "rfc822-json": "^0.3.6",
+    "sentence-splitter": "^2.2.0",
+    "sentence-tokenizer": "0.0.8",
+    "svm": "^0.1.1",
+    "tokenizer": "^1.1.2",
+    "worder": "^1.0.9",
+    "wordnet-db": "^3.1.4",
+    "wordpos": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
